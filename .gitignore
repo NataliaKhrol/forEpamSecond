@@ -1,4 +1,6 @@
 *.log
-.db
+*.db
 /target
 /bin
+forEpam.iml
+.idea/
